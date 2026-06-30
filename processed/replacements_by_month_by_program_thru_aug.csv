@@ -1,0 +1,231 @@
+completed_month_year,program,replacements
+1-01-22,Equity,3
+1-01-22,Homeowner Initiated,1
+1-01-23,Homeowner Initiated,13
+1-01-23,Equity,55
+1-01-23,Daycare,1
+1-01-23,Breaks Leaks,51
+1-01-24,Homeowner Initiated,50
+1-01-24,Equity,9
+1-01-24,Daycare,12
+1-01-24,Breaks Leaks,142
+1-01-25,Daycare,5
+1-01-25,Equity,17
+1-01-25,Homeowner Initiated,24
+1-01-25,CIP Sewer and Water Main,47
+1-01-25,Block Level LSLR,3
+1-01-25,Breaks Leaks,234
+1-02-22,Equity,4
+1-02-22,Homeowner Initiated,5
+1-02-23,Equity,60
+1-02-23,Breaks Leaks,72
+1-02-23,CIP Sewer and Water Main,5
+1-02-23,Daycare,5
+1-02-23,Homeowner Initiated,8
+1-02-24,Breaks Leaks,227
+1-02-24,Daycare,18
+1-02-24,Equity,21
+1-02-24,Homeowner Initiated,17
+1-02-25,Block Level LSLR,21
+1-02-25,Breaks Leaks,290
+1-02-25,CIP Sewer and Water Main,39
+1-02-25,Daycare,5
+1-02-25,Equity,37
+1-02-25,Homeowner Initiated,31
+1-03-22,Homeowner Initiated,1
+1-03-22,Equity,23
+1-03-23,Breaks Leaks,142
+1-03-23,CIP Sewer and Water Main,23
+1-03-23,Daycare,7
+1-03-23,Equity,86
+1-03-23,Homeowner Initiated,13
+1-03-24,CIP Sewer and Water Main,19
+1-03-24,Daycare,16
+1-03-24,Equity,16
+1-03-24,Breaks Leaks,249
+1-03-24,Homeowner Initiated,45
+1-03-25,Block Level LSLR,70
+1-03-25,Breaks Leaks,254
+1-03-25,CIP Sewer and Water Main,82
+1-03-25,Daycare,2
+1-03-25,Equity,69
+1-03-25,Homeowner Initiated,39
+1-04-22,Homeowner Initiated,2
+1-04-22,Equity,15
+1-04-23,Homeowner Initiated,30
+1-04-23,Block Level LSLR,1
+1-04-23,Breaks Leaks,157
+1-04-23,CIP Sewer and Water Main,30
+1-04-23,Daycare,8
+1-04-23,Equity,80
+1-04-24,Daycare,4
+1-04-24,Equity,21
+1-04-24,Breaks Leaks,386
+1-04-24,CIP Sewer and Water Main,30
+1-04-24,Homeowner Initiated,36
+1-04-25,CIP Sewer and Water Main,124
+1-04-25,Daycare,10
+1-04-25,Equity,28
+1-04-25,Homeowner Initiated,33
+1-04-25,Block Level LSLR,54
+1-04-25,Breaks Leaks,470
+1-05-21,Homeowner Initiated,1
+1-05-22,Equity,25
+1-05-23,CIP Sewer and Water Main,68
+1-05-23,Homeowner Initiated,26
+1-05-23,Equity,90
+1-05-23,Daycare,9
+1-05-23,Breaks Leaks,278
+1-05-24,Equity,20
+1-05-24,Daycare,1
+1-05-24,CIP Sewer and Water Main,27
+1-05-24,Breaks Leaks,221
+1-05-24,Homeowner Initiated,36
+1-05-25,Equity,5
+1-05-25,CIP Sewer and Water Main,90
+1-05-25,Breaks Leaks,351
+1-05-25,Daycare,13
+1-05-25,Block Level LSLR,3
+1-06-21,Homeowner Initiated,2
+1-06-22,Equity,28
+1-06-22,Homeowner Initiated,3
+1-06-23,Homeowner Initiated,25
+1-06-23,Equity,110
+1-06-23,Daycare,14
+1-06-23,CIP Sewer and Water Main,74
+1-06-23,Breaks Leaks,214
+1-06-24,Equity,18
+1-06-24,Breaks Leaks,258
+1-06-24,CIP Sewer and Water Main,17
+1-06-24,Daycare,3
+1-06-24,Homeowner Initiated,28
+1-06-25,Homeowner Initiated,3
+1-06-25,Equity,3
+1-06-25,Daycare,11
+1-06-25,CIP Sewer and Water Main,34
+1-06-25,Block Level LSLR,5
+1-06-25,Breaks Leaks,230
+1-07-21,Homeowner Initiated,1
+1-07-21,Equity,1
+1-07-22,Equity,17
+1-07-22,Homeowner Initiated,1
+1-07-23,Breaks Leaks,175
+1-07-23,CIP Sewer and Water Main,40
+1-07-23,Daycare,13
+1-07-23,Equity,102
+1-07-23,Homeowner Initiated,42
+1-07-24,Homeowner Initiated,43
+1-07-24,Daycare,6
+1-07-24,Breaks Leaks,254
+1-07-24,Block Level LSLR,1
+1-07-24,Equity,22
+1-07-24,CIP Sewer and Water Main,42
+1-07-25,Equity,16
+1-07-25,CIP Sewer and Water Main,10
+1-07-25,Breaks Leaks,453
+1-07-25,Block Level LSLR,12
+1-07-25,Homeowner Initiated,46
+1-08-21,Homeowner Initiated,1
+1-08-21,Equity,1
+1-08-22,Equity,18
+1-08-22,Homeowner Initiated,3
+1-08-23,Breaks Leaks,273
+1-08-23,Block Level LSLR,1
+1-08-23,Homeowner Initiated,44
+1-08-23,Equity,131
+1-08-23,Daycare,10
+1-08-23,CIP Sewer and Water Main,75
+1-08-24,Daycare,13
+1-08-24,Equity,30
+1-08-24,Breaks Leaks,263
+1-08-24,CIP Sewer and Water Main,113
+1-08-24,Homeowner Initiated,33
+1-08-25,Block Level LSLR,29
+1-08-25,Breaks Leaks,132
+1-08-25,CIP Sewer and Water Main,19
+1-08-25,Daycare,15
+1-08-25,Equity,32
+1-08-25,Homeowner Initiated,5
+1-09-21,Equity,5
+1-09-22,Homeowner Initiated,1
+1-09-22,Equity,26
+1-09-23,Breaks Leaks,166
+1-09-23,CIP Sewer and Water Main,11
+1-09-23,Daycare,8
+1-09-23,Equity,92
+1-09-23,Homeowner Initiated,38
+1-09-24,Homeowner Initiated,44
+1-09-24,Equity,73
+1-09-24,CIP Sewer and Water Main,47
+1-09-24,Breaks Leaks,281
+1-09-24,Block Level LSLR,2
+1-09-24,Daycare,31
+1-09-25,Block Level LSLR,65
+1-09-25,Breaks Leaks,307
+1-09-25,CIP Sewer and Water Main,165
+1-09-25,Daycare,27
+1-09-25,Equity,33
+1-09-25,Homeowner Initiated,47
+1-10-21,Equity,5
+1-10-22,Homeowner Initiated,1
+1-10-22,Equity,27
+1-10-23,Breaks Leaks,81
+1-10-23,CIP Sewer and Water Main,23
+1-10-23,Daycare,10
+1-10-23,Equity,92
+1-10-23,Homeowner Initiated,39
+1-10-24,Equity,96
+1-10-24,Daycare,10
+1-10-24,CIP Sewer and Water Main,57
+1-10-24,Breaks Leaks,351
+1-10-24,Homeowner Initiated,34
+1-10-25,CIP Sewer and Water Main,167
+1-10-25,Breaks Leaks,348
+1-10-25,Block Level LSLR,76
+1-10-25,Equity,44
+1-10-25,Homeowner Initiated,35
+1-10-25,Daycare,25
+1-11-21,Equity,7
+1-11-22,Homeowner Initiated,2
+1-11-22,Equity,40
+1-11-22,Breaks Leaks,18
+1-11-23,CIP Sewer and Water Main,4
+1-11-23,Daycare,14
+1-11-23,Equity,44
+1-11-23,Homeowner Initiated,27
+1-11-23,Breaks Leaks,181
+1-11-24,Daycare,19
+1-11-24,Homeowner Initiated,32
+1-11-24,Equity,101
+1-11-24,Block Level LSLR,1
+1-11-24,CIP Sewer and Water Main,33
+1-11-24,Breaks Leaks,331
+1-11-25,Homeowner Initiated,26
+1-11-25,Equity,39
+1-11-25,Block Level LSLR,72
+1-11-25,Breaks Leaks,288
+1-11-25,CIP Sewer and Water Main,99
+1-11-25,Daycare,11
+1-12-21,Equity,3
+1-12-22,Daycare,2
+1-12-22,Breaks Leaks,23
+1-12-22,Homeowner Initiated,8
+1-12-22,Equity,49
+1-12-23,Homeowner Initiated,29
+1-12-23,Equity,22
+1-12-23,Block Level LSLR,1
+1-12-23,CIP Sewer and Water Main,2
+1-12-23,Breaks Leaks,297
+1-12-23,Daycare,18
+1-12-24,Block Level LSLR,26
+1-12-24,Breaks Leaks,392
+1-12-24,CIP Sewer and Water Main,7
+1-12-24,Equity,103
+1-12-24,Homeowner Initiated,10
+1-12-24,Daycare,29
+1-12-25,Block Level LSLR,68
+1-12-25,Breaks Leaks,249
+1-12-25,CIP Sewer and Water Main,184
+1-12-25,Daycare,15
+1-12-25,Equity,38
+1-12-25,Homeowner Initiated,21
